@@ -17,6 +17,8 @@
 using namespace Eigen;
 using namespace std;
 
+// This file simulates flow of river delta.
+
 #define SQUARE(x) (x.cwiseProduct(x))
 
 // Reads a csv file and returns a matrix
