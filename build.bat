@@ -1,0 +1,1 @@
+g++ -O2 -g -I "C:\Program Files (x86)\boost\boost_1_55_0" -I "C:\Program Files (x86)\Eigen\include\eigen3" -std=c++0x FlowF30.cpp -o FlowF30
